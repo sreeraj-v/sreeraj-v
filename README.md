@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am a Hardworking smart Boy**
 
-<h3 align="left">Connect with me:<a href="srj2255000@gmail.com"></a></h3>
+<h3 align="left">Connect with me:<a href="srj2255000@gmail.com">  srj2255000@gmail.com</a></h3>
 <p align="left">
 </p>
 
