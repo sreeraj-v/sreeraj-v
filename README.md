@@ -42,3 +42,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeraj-v&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeraj-v&layout=compact&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=rasi-kp&icon=7&color=12)](https://visitcount.itsvg.in)
+
