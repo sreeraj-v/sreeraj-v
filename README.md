@@ -28,7 +28,7 @@
 </p>
 
 
-## 📊 GITHUB
+## 📊 GITHUB STATS
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraj-v&show_icons=true&theme=radical" alt="sreeraj" /></p>
 
