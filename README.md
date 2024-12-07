@@ -1,7 +1,7 @@
 <h1 align="center">Hi #️⃣ I'M SREERAJ</h1>
 <h3 align="center">A passionate fullstack developer</h3>
                       
-                                          
+                                           
              
 - 🌱 I’m currently learning **React js**
 
@@ -9,7 +9,7 @@
 
   
 ## 💼 SKILLS    
-                        
+                               
          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
