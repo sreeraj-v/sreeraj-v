@@ -3,7 +3,7 @@
                       
                                            
              
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js**           
 
 - ⚡ Fun fact **I am a man of focus, commitment, and sheer will—qualities that drive my passion for coding and technology.**
 
