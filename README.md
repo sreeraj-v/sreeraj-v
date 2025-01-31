@@ -1,18 +1,13 @@
-<h1 align="center">Hi #️⃣ I'M Sreeraj V</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&width=500&lines=A+passionate+fullstack+developer;Tech+Enthusiast;Problem+Solver" alt="Typing animation">
-</h3>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sreeraj-v/main/profile-border.gif" width="100%">
-</p>
-
 <p align="center">
   <img src="https://github.com/sreeraj-v/sreeraj-v/raw/main/animated-border.svg" width="100%">
 </p>
+
+<h1 align="center">Hi #️⃣ I'M Sreeraj V</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&width=500&lines=A+passionate+fullstack+developer+from+India;An+enthusiast+in+exploring+new+technologies;Solving+complex+problems+with+dedication" alt="Typing animation">
+</h3>
+
 
 ---
 
@@ -64,4 +59,8 @@
   <a href="https://medium.com/@sreeraj-v" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/sreeraj-v/sreeraj-v/raw/main/animated-border.svg" width="100%">
 </p>
