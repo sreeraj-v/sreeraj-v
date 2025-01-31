@@ -6,17 +6,19 @@
 
 ---
 
-## 🎨 **PROFILE DESIGN**  
 <p align="center">
   <img src="https://raw.githubusercontent.com/sreeraj-v/main/profile-border.gif" width="100%">
 </p>
 
-<div align="center" style="border: 5px solid; border-image-source: linear-gradient(90deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffb7, #006eff, #a200ff); border-image-slice: 1; padding: 10px; border-radius: 10px; animation: border-animation 6s infinite;">
-  
+<p align="center">
+  <img src="https://github.com/sreeraj-v/sreeraj-v/raw/main/animated-border.svg" width="100%">
+</p>
+
 ---
 
-## 💼 **SKILLS** 🔥  
-<div align="center">
+## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF4500&center=true&width=600&lines=%F0%9F%94%A5+SKILLS+%F0%9F%94%A5"></p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
@@ -31,23 +33,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-</div>
+</p>
 
 ---
 
-## 📊 **GITHUB STATS** 📈  
-<div align="center">
+## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=0088FF&center=true&width=600&lines=%F0%9F%93%8A+GITHUB+STATS+%F0%9F%93%88"></p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraj-v&show_icons=true&theme=shadow_red&include_all_commits=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sreeraj-v&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=sreeraj-v&icon=7&color=12)](https://visitcount.itsvg.in)
 
 ---
 
-## 🌐 **CONNECT WITH ME** 📩  
-<div align="center">
+## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=32CD32&center=true&width=600&lines=%F0%9F%8C%90+CONNECT+WITH+ME+%F0%9F%93%A5"></p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sreeraj-v" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -60,23 +64,4 @@
   <a href="https://medium.com/@sreeraj-v" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
   </a>
-</div>
-
-</div>  <!-- Closing the animated border wrapper -->
-  
----
-
-### **🔥 Now your GitHub profile will stand out with:**
-✅ **Fixed social icons** (Gmail & Medium now display correctly).  
-✅ **Stylish animated border** wrapping your entire README.  
-✅ **Better heading styles** with gradient effects.  
-✅ **Neatly aligned sections** for a clean and professional look.  
-
----
-
-### **🚀 Next Steps:**  
-- **Copy & Paste** this updated code into your `README.md`.  
-- **Preview it** on GitHub to ensure everything looks great.  
-- **Make it your own** by tweaking colors or animations to match your personal style!  
-
-Let me know if you need further refinements! 🚀🎨
+</p>
