@@ -2,16 +2,16 @@
   <img src="https://github.com/sreeraj-v/sreeraj-v/raw/main/animated-border.svg" width="100%">
 </p>
 
-<h1 align="center">Hi #️⃣ I'M Sreeraj V</h1>
+<h1 align="center">Hi  I'm Sreeraj </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&width=500&lines=A+passionate+fullstack+developer+from+India;An+enthusiast+in+exploring+new+technologies;Solving+complex+problems+with+dedication" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F70000&width=500&lines=A+++passionate+++fullstack+++developer.....+;An+enthusiast+in+exploring+new+technology;Solving+complex+problems+with+dedication" alt="Typing animation">
 </h3>
 
 
----
 
-## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF4500&center=true&width=600&lines=%F0%9F%94%A5+SKILLS+%F0%9F%94%A5"></p>
+
+## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=0088FF&center=true&width=600&lines=%F0%9F%94%A5+TECHNOLOGY+STACK+%F0%9F%94%A5"></p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
@@ -30,9 +30,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 </p>
 
----
+
 
 ## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=0088FF&center=true&width=600&lines=%F0%9F%93%8A+GITHUB+STATS+%F0%9F%93%88"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sreeraj-v/sreeraj-v/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sreeraj-v/sreeraj-v/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sreeraj-v/sreeraj-v/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraj-v&show_icons=true&theme=shadow_red&include_all_commits=true" alt="GitHub Streak" />
@@ -42,23 +47,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=sreeraj-v&icon=7&color=12)](https://visitcount.itsvg.in)
 
----
 
 ## <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=32CD32&center=true&width=600&lines=%F0%9F%8C%90+CONNECT+WITH+ME+%F0%9F%93%A5"></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sreeraj-v" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/sreeraj-v" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="mailto:sreeraj-v@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://medium.com/@sreeraj-v" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
-  </a>
+  <a href="mailto:adarsh7013a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adarshmdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/adarsh7013a"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <p align="center">
