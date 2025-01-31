@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,nodejs,mongodb,nextjs,graphql&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,express,aws,docker,git,github,postman,figma,vercel,netlify,jwt&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=typescript,express,aws,docker,git,github,postman,figma,vercel,netlify&theme=dark" />
 </p>
 
 
